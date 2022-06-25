@@ -1,0 +1,219 @@
+html,body {
+    margin:0;
+    padding:0;
+}
+
+.navbar img{
+    height: 40px;
+    padding: 15px;
+}
+
+.intro{
+    height: 650px;
+    background-image: linear-gradient(0deg, rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url("https://images01.nicepage.com/2c/aa/2caae017a61202f87bc36fab57e85a63.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.text-1{
+    text-transform: uppercase;
+    font-family: Roboto, sans-serif;
+    font-size: 0.6cm;
+    color: rgb(226, 214, 45);
+    position: absolute;
+    top: 35%;
+    left: 10%;
+}
+
+.text-2{
+    text-transform: uppercase;
+    font-family: Roboto, sans-serif;
+    font-size: 1.4cm;
+    color: white;
+    position: absolute;
+    top: 40%;
+    left: 10%;
+}
+
+.hr-1{
+    border-top: 3px solid rgb(226, 214, 45);
+    width: 100px;
+    position: absolute;
+    top: 55%;
+    left: 10%;
+}
+
+.text-3{
+    font-family: Roboto, sans-serif;
+    color: white;
+    position: absolute;
+    top: 60%;
+    left: 10%;
+}
+
+.image-1{
+    max-height: 90%;
+    margin-left: 55%;
+    justify-content: end;
+    position: relative;
+    top: 10%;
+    left: 10%;
+}
+
+.button-1{
+    font-family: Roboto, sans-serif;
+    text-transform: uppercase;
+    color: white;
+    border: 2px solid rgb(226, 214, 45);
+    border: none;
+    font-size: 0.4cm;
+    padding: 10px 10px;
+    border-radius: 5px;
+    background-color: rgb(226, 214, 45);
+    position: absolute;
+    top: 70%;
+    left: 10%;
+}
+
+.button-2{
+    font-family: Roboto, sans-serif;
+    text-transform: uppercase;
+    color: white;
+    border: 2px solid white;
+    background-color: transparent;
+    font-size: 0.4cm;
+    padding: 10px 10px;
+    border-radius: 5px;
+    position: absolute;
+    top: 70%;
+    left: 20%;
+}
+
+.button-2:hover{
+    background-color: white;
+    color: black;
+}
+
+.text-4{
+    text-transform: uppercase;
+    font-family: Roboto, sans-serif;
+    font-size: 0.6cm;
+    color: rgb(226, 214, 45);
+    position: relative;
+    top: 70px;
+    left: 10%;
+}
+
+.about{
+    overflow: hidden;
+}
+
+.text-5{
+    text-transform: uppercase;
+    font-family: Roboto, sans-serif;
+    font-size: 1.3cm;
+    color: black;
+    position: relative;
+    top: 60px;
+    left: 10%;
+}
+
+.text-6{
+    font-family: Roboto, sans-serif;
+    color: rgba(65, 57, 57, 0.323);
+    font-size: 0.7cm;
+    line-height: 40px;
+    position: relative;
+    top: 80px;
+    left: 10%;
+}
+
+.hr-2{
+    border-top: 3px solid rgb(226, 214, 45);
+    width: 100px;
+    position: relative;
+    top: 60px;
+    left: -550px;
+}
+
+.text-7{
+    font-family: Roboto, sans-serif;
+    color: black;
+    text-align: top;
+    text-overflow: ellipsis;
+    line-height: 30px;
+    height: 600px;
+    width:550px;
+    position: relative;
+    top: -220px;
+    left: 55%;
+}
+
+.button-3{
+    font-family: Roboto, sans-serif;
+    text-transform: uppercase;
+    color: white;
+    border: 2px solid rgb(226, 214, 45);
+    border: none;
+    font-size: 0.4cm;
+    padding: 10px 10px;
+    border-radius: 5px;
+    background-color: rgb(226, 214, 45);
+    position: relative;
+    top: -440px;
+    left: 55%;
+}
+
+.part-1{
+    font-family: Roboto, sans-serif;
+    background-image: linear-gradient(0deg, rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url("https://images01.nicepage.com/bf/37/bf37f8217e4b71feb26707d632c6845d.png");
+    width: 33.33%;
+    min-height: 300px;
+    float: left;
+    position: relative;
+    top: -350px;
+}
+
+.part-2{
+    font-family: Roboto, sans-serif;
+    background-image: linear-gradient(0deg, rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url("https://images01.nicepage.com/45/78/457883519366bc77e9ffb4294b44f8df.png");
+    width: 33.33%;
+    float: left;
+    min-height: 300px;
+    position: relative;
+    top: -350px;
+}
+
+.part-3{
+    font-family: Roboto, sans-serif;
+    background-image: linear-gradient(0deg, rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url("https://images01.nicepage.com/35/97/35970472e6f88da51190947c84ba6f2a.png");
+    width: 33.33%;
+    min-height: 300px;
+    float: left;
+    position: relative;
+    top: -350px;
+}
+
+.hr-line{
+    border-top: 3px solid rgb(226, 214, 45);
+    width: 100px;
+    position: relative;
+    top: 140px;
+    left: -182px;
+}
+
+.g-head{
+    text-transform: uppercase;
+    font-size: 0.6cm;
+    color: white;
+    position: relative;
+    top: 145px;
+    left: 3%;
+}
+
+.g-text{
+    color: white;
+    position: relative;
+    top: 155px;
+    left: 3%;
+}
